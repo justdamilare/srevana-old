@@ -1,0 +1,4 @@
+baseURL = 'http://srevana.com/'
+languageCode = 'en-us'
+title = 'Srevana'
+theme = 'bigspring-light'
